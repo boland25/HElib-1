@@ -1,11 +1,14 @@
 var searchData=
 [
-  ['n_2518',['n',['../classhelib_1_1zz__p_x_modulus1.html#a20d165e749cda8dee52593385ceea9dd',1,'helib::zz_pXModulus1']]],
-  ['name_2519',['name',['../structhelib_1_1fhe__stats__record.html#a325de3da1835555db01795d3e7619628',1,'helib::fhe_stats_record::name()'],['../classhelib_1_1_labeled_vertex.html#a7f161b0c3325f723c521563c3abfb413',1,'helib::LabeledVertex::name()'],['../classhelib_1_1_f_h_etimer.html#affc0584acd065e0f04264cade4d85e08',1,'helib::FHEtimer::name()']]],
-  ['native_2520',['native',['../classhelib_1_1_mat_mul1_d_exec.html#a03a86ca6a5528d3381316a2a088cb388',1,'helib::MatMul1DExec::native()'],['../classhelib_1_1_block_mat_mul1_d_exec.html#af19f7e0186e779299543ff6f1ae43e1f',1,'helib::BlockMatMul1DExec::native()']]],
-  ['neighbors_2521',['neighbors',['../classhelib_1_1_labeled_vertex.html#a375a934d2cc7201924264dfe8195ce6c',1,'helib::LabeledVertex']]],
-  ['noisebound_2522',['noiseBound',['../classhelib_1_1_key_switch.html#a635d31b573c39ab850ea8a5a9155d6ce',1,'helib::KeySwitch']]],
-  ['noskm_2523',['noSKM',['../struct_cmd_line_opts.html#a90c57f5e1345f35016cf5cd8922e8093',1,'CmdLineOpts']]],
-  ['nthreads_2524',['nthreads',['../struct_cmd_line_opts.html#a41cbb7a73230540c1751e421973ea577',1,'CmdLineOpts']]],
-  ['numcalls_2525',['numCalls',['../classhelib_1_1_f_h_etimer.html#aea72d5884d4d88e6dd47a29c9d7a53d2',1,'helib::FHEtimer']]]
+  ['m_2915',['m',['../structhelib_1_1_context_builder_1_1default__values.html#a16ff2e33b272727fb17e1b5f5ef018e1',1,'helib::ContextBuilder::default_values::m()'],['../classhelib_1_1zz__p_x_modulus1.html#afbc0769f9f9ae03d5970d805cff25ba0',1,'helib::zz_pXModulus1::m()'],['../classhelib_1_1_powerful_translation_indexes.html#af5955825cde292aa87a87fcab4dc85c7',1,'helib::PowerfulTranslationIndexes::m()'],['../structhelib_1_1_prime_generator.html#a1c45c700027528432aff3849baf49e46',1,'helib::PrimeGenerator::m()'],['../structhelib_1_1_context_1_1_serializable_content.html#a0c6cfdfe1cc803e4ec44222f1bbb58ab',1,'helib::Context::SerializableContent::m()'],['../struct_params_file_opts.html#a5651dd477dcdac72a38feef6abfd217a',1,'ParamsFileOpts::m()']]],
+  ['major_2916',['major',['../structhelib_1_1version.html#a8343a39ace6791c5a92834cf5b9ff9fb',1,'helib::version']]],
+  ['map_2917',['map',['../structhelib_1_1fhe__stats__record.html#a64be4cf8d7bde9a86a6977d393827a99',1,'helib::fhe_stats_record']]],
+  ['mat_2918',['mat',['../classhelib_1_1_mat_mul_full_helper.html#ab56a13de5503d66a515c1abc1136d0d5',1,'helib::MatMulFullHelper::mat()'],['../classhelib_1_1_block_mat_mul_full_helper.html#a9c6d111e10c2b9f055bff85208da649e',1,'helib::BlockMatMulFullHelper::mat()']]],
+  ['max_2919',['max',['../structhelib_1_1fhe__stats__record.html#a31cd2ae2efc75dbe22dca31d26ab3b2b',1,'helib::fhe_stats_record']]],
+  ['min_5fsk_5fhwt_2920',['MIN_SK_HWT',['../namespacehelib.html#aa08635ca33d8e5b8eee1640347bdf2b0',1,'helib']]],
+  ['minimal_2921',['minimal',['../classhelib_1_1_mat_mul1_d_exec.html#af51275a18ff1d182fba01c3bf9982a36',1,'helib::MatMul1DExec::minimal()'],['../classhelib_1_1_mat_mul_full_exec.html#ad3f05b0168e4cc0f573484d6cdf2d80b',1,'helib::MatMulFullExec::minimal()'],['../classhelib_1_1_block_mat_mul_full_exec.html#a844b528148aaa8a7c67e71a3153538c6',1,'helib::BlockMatMulFullExec::minimal()']]],
+  ['minor_2922',['minor',['../structhelib_1_1version.html#a227a0347ff6f84086ff6284e51be8fc0',1,'helib::version']]],
+  ['multiplier_2923',['multiplier',['../structhelib_1_1_const_multiplier_cache.html#a9d809a121eaf4d984a4f051b8eae9f5f',1,'helib::ConstMultiplierCache']]],
+  ['mus_2924',['mus',['../structhelib_1_1_query__t.html#accbd8e61e096380734459aa587f276d0',1,'helib::Query_t']]],
+  ['mvec_2925',['mvec',['../classhelib_1_1_powerful_translation_indexes.html#a2d5ba64f864da4fea17da2561323ab51',1,'helib::PowerfulTranslationIndexes::mvec()'],['../classhelib_1_1_recrypt_data.html#ad0ee7fe41372bfe6bce9c6191936558d',1,'helib::RecryptData::mvec()'],['../structhelib_1_1_context_1_1_boot_strap_params.html#abb0c87b5af51e349c704a4033b31048b',1,'helib::Context::BootStrapParams::mvec()'],['../structhelib_1_1_context_1_1_serializable_content.html#a8f166192499c39d1b3362e6aa338c66d',1,'helib::Context::SerializableContent::mvec()'],['../struct_params_file_opts.html#abb5e652150e8d9ec53010e2e5adb2f74',1,'ParamsFileOpts::mvec()']]]
 ];

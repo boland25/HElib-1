@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['keyswitch_1344',['KeySwitch',['../classhelib_1_1_key_switch.html',1,'helib']]]
+  ['jsonwrapper_1588',['JsonWrapper',['../structhelib_1_1_json_wrapper.html',1,'helib']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['helib_20documentation_2666',['HElib Documentation',['../index.html',1,'']]]
+  ['deprecated_20list_3092',['Deprecated List',['../deprecated.html',1,'']]]
 ];

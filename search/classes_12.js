@@ -1,11 +1,14 @@
 var searchData=
 [
-  ['tensor_1435',['Tensor',['../classhelib_1_1_tensor.html',1,'helib']]],
-  ['tensor_3c_20txt_20_3e_1436',['Tensor&lt; TXT &gt;',['../classhelib_1_1_tensor.html',1,'helib']]],
-  ['tensorslice_1437',['TensorSlice',['../structhelib_1_1_tensor_slice.html',1,'helib']]],
-  ['testtype_1438',['TestType',['../classgen-expected-mask_1_1_test_type.html',1,'gen-expected-mask']]],
-  ['thinevalmap_1439',['ThinEvalMap',['../classhelib_1_1_thin_eval_map.html',1,'helib']]],
-  ['thinrecryptdata_1440',['ThinRecryptData',['../classhelib_1_1_thin_recrypt_data.html',1,'helib']]],
-  ['toc_1441',['TOC',['../class_t_o_c.html',1,'']]],
-  ['treenode_1442',['TreeNode',['../classhelib_1_1_tree_node.html',1,'helib']]]
+  ['scratchcell_1691',['ScratchCell',['../classhelib_1_1_scratch_cell.html',1,'helib']]],
+  ['seckey_1692',['SecKey',['../classhelib_1_1_sec_key.html',1,'helib']]],
+  ['serializablecontent_1693',['SerializableContent',['../structhelib_1_1_context_1_1_serializable_content.html',1,'helib::Context']]],
+  ['serializeheader_1694',['SerializeHeader',['../structhelib_1_1_serialize_header.html',1,'helib']]],
+  ['shallowcopy_1695',['ShallowCopy',['../structhelib_1_1_shallow_copy.html',1,'helib']]],
+  ['shift1d_5fpa_5fimpl_1696',['shift1D_pa_impl',['../classhelib_1_1shift1_d__pa__impl.html',1,'helib']]],
+  ['shift_5fpa_5fimpl_1697',['shift_pa_impl',['../classhelib_1_1shift__pa__impl.html',1,'helib']]],
+  ['skhandle_1698',['SKHandle',['../classhelib_1_1_s_k_handle.html',1,'helib']]],
+  ['sub_5fpa_5fimpl_1699',['sub_pa_impl',['../classhelib_1_1sub__pa__impl.html',1,'helib']]],
+  ['subdimension_1700',['SubDimension',['../classhelib_1_1_sub_dimension.html',1,'helib']]],
+  ['sumregister_1701',['SumRegister',['../classhelib_1_1_sum_register.html',1,'helib']]]
 ];

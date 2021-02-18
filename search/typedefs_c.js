@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['value_5ftype_2630',['value_type',['../classhelib_1_1_p_g_f_f_t_1_1aligned__allocator.html#aef7385525e57d83cecb045c9eab57a23',1,'helib::PGFFT::aligned_allocator']]],
-  ['vector_2631',['Vector',['../namespacehelib.html#a67a60bb8531261415fb3615bde85ae65',1,'helib']]]
+  ['slottype_3056',['SlotType',['../classhelib_1_1_ptxt.html#a946bec7d82e1903e0135d77d7fbe3c43',1,'helib::Ptxt::SlotType()'],['../structhelib_1_1_c_k_k_s.html#a7c8b6e96117c89f9395b2f1ccdc1e0a0',1,'helib::CKKS::SlotType()'],['../structhelib_1_1_b_g_v.html#a09c79ac9a958d2d2b93c34d89c3ca65b',1,'helib::BGV::SlotType()']]]
 ];

@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['or_1373',['Or',['../classhelib_1_1_or.html',1,'helib']]],
-  ['outofrangeerror_1374',['OutOfRangeError',['../classhelib_1_1_out_of_range_error.html',1,'helib']]]
+  ['negate_5fpa_5fimpl_1622',['negate_pa_impl',['../classhelib_1_1negate__pa__impl.html',1,'helib']]],
+  ['norm_5fpa_5fimpl_1623',['Norm_pa_impl',['../classhelib_1_1_norm__pa__impl.html',1,'helib']]],
+  ['norm_5fpa_5fimpl_3c_20pa_5fcx_20_3e_1624',['Norm_pa_impl&lt; PA_cx &gt;',['../classhelib_1_1_norm__pa__impl_3_01_p_a__cx_01_4.html',1,'helib']]]
 ];

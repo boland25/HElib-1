@@ -1,25 +1,9 @@
 var searchData=
 [
-  ['p_2532',['p',['../structhelib_1_1_poly_mod_ring.html#a53fef893b5100a61915e34139f25a443',1,'helib::PolyModRing::p()'],['../struct_params_file_opts.html#ab95128a61de4faab3172e5690c816b36',1,'ParamsFileOpts::p()']]],
-  ['p2dconv_2533',['p2dConv',['../classhelib_1_1_recrypt_data.html#a6f591f194637b52ff8581bd0d619785d',1,'helib::RecryptData']]],
-  ['p2r_2534',['p2r',['../structhelib_1_1_poly_mod_ring.html#aaeb79e9dc6bb265aa214926242573a5d',1,'helib::PolyModRing']]],
-  ['paramfilename_2535',['paramFileName',['../struct_cmd_line_opts.html#a23d1ebded3f83ab59a2b814a30a4a77a',1,'CmdLineOpts']]],
-  ['parent1_2536',['parent1',['../classhelib_1_1_d_a_gnode.html#ad25871eba61bb55403bad2b206c18557',1,'helib::DAGnode']]],
-  ['parent2_2537',['parent2',['../classhelib_1_1_d_a_gnode.html#a691fb030f5ff11849b1b9a8a5809236a',1,'helib::DAGnode']]],
-  ['parser_2538',['parser',['../namespacegen-data.html#a3b3855fa4e91916169c787bb57365d9e',1,'gen-data']]],
-  ['patch_2539',['patch',['../structhelib_1_1version.html#a728dec3e037cddf954efb5b9092659aa',1,'helib::version']]],
-  ['phim_2540',['phim',['../classhelib_1_1_powerful_translation_indexes.html#ad1108dd6480037533c2142f6cd9af8b6',1,'helib::PowerfulTranslationIndexes']]],
-  ['phimx_2541',['phimX',['../classhelib_1_1_powerful_translation_indexes.html#abf6d504f3345912c300c4616a2ad1018',1,'helib::PowerfulTranslationIndexes']]],
-  ['phivec_2542',['phivec',['../classhelib_1_1_powerful_translation_indexes.html#a53589e6870f3486f2c1a802132f83400',1,'helib::PowerfulTranslationIndexes']]],
-  ['pi_2543',['PI',['../namespacehelib.html#aa4e11abf6db9206e9dc7ac9397ce28fb',1,'helib']]],
-  ['pkfilepath_2544',['pkFilePath',['../struct_cmd_line_opts.html#ac7e5ceeabd3bcdd07b41e9e965878a33',1,'CmdLineOpts']]],
-  ['polytocubemap_2545',['polyToCubeMap',['../classhelib_1_1_powerful_translation_indexes.html#a7d0ba71960c8819aa391f7b5516c5924',1,'helib::PowerfulTranslationIndexes']]],
-  ['pow_2546',['pow',['../structhelib_1_1half___f_f_t.html#abd74c5f01202b914dfe28816585cff9a',1,'helib::half_FFT']]],
-  ['pow1_2547',['pow1',['../structhelib_1_1quarter___f_f_t.html#a858f766a1f28499f273e08d44d0cd77a',1,'helib::quarter_FFT']]],
-  ['pow2_2548',['pow2',['../structhelib_1_1quarter___f_f_t.html#a6de8ccec00cdedeedcff3cec9924097a',1,'helib::quarter_FFT']]],
-  ['prgseed_2549',['prgSeed',['../classhelib_1_1_key_switch.html#af4d2dcf11d6e9edfa769cdaa764f5a5f',1,'helib::KeySwitch']]],
-  ['printflag_2550',['printFlag',['../namespacehelib.html#a244137dad8f49e984df751ef5d044f4c',1,'helib']]],
-  ['ptxtspace_2551',['ptxtSpace',['../classhelib_1_1_key_switch.html#a8651e62e5105034f136a63c7d9d823f6',1,'helib::KeySwitch']]],
-  ['pubencrkey_2552',['pubEncrKey',['../structhelib_1_1_pub_key_hack.html#a4090bd8620d5a8c21f29c743835fcaa2',1,'helib::PubKeyHack']]],
-  ['pwfl_5fconverter_2553',['pwfl_converter',['../classhelib_1_1_context.html#a26f5e8b08576bf2ab4632bc8234243e2',1,'helib::Context']]]
+  ['offset_2934',['offset',['../struct_cmd_line_opts.html#aa46defcc38736fac08253823a45c5d64',1,'CmdLineOpts']]],
+  ['order_2935',['order',['../classhelib_1_1_gen_descriptor.html#a9f39735698306557fa532015dd7c0069',1,'helib::GenDescriptor']]],
+  ['ords_2936',['ords',['../structhelib_1_1_context_1_1_serializable_content.html#a22dcf7c8f7ae4792baf740fe096cd9c5',1,'helib::Context::SerializableContent::ords()'],['../struct_params_file_opts.html#a26c8b9a6cc547f29444a3f1b7d4682ae',1,'ParamsFileOpts::ords()']]],
+  ['orig_2937',['orig',['../structhelib_1_1_ptr_vector__slice.html#a8bb4510a87da9a375032fc02f07c5238',1,'helib::PtrVector_slice']]],
+  ['outfilepath_2938',['outFilePath',['../struct_cmd_line_opts.html#a43bbaec52f3c6f84480d9850bd0f2aab',1,'CmdLineOpts']]],
+  ['outputprefixpath_2939',['outputPrefixPath',['../struct_cmd_line_opts.html#a126dd56fde6634ec9664472780a59a81',1,'CmdLineOpts']]]
 ];

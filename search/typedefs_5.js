@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['ldbl_2621',['ldbl',['../namespacehelib.html#a9b643292f10bf869b8650f9392ff2d90',1,'helib']]],
-  ['lneighborlist_2622',['LNeighborList',['../namespacehelib.html#ab3940838420e66ad737389ec211730b3',1,'helib']]],
-  ['long_2623',['LONG',['../namespacehelib.html#ad6eb9f0889a704dbc4684ce445c48456',1,'helib']]]
+  ['get_5ffun_5ftype_3045',['get_fun_type',['../classhelib_1_1_mat_mul___c_k_k_s.html#afbf209c4d02c4d7d2ec501e2ca9cb739',1,'helib::MatMul_CKKS::get_fun_type()'],['../classhelib_1_1_mat_mul___c_k_k_s___complex.html#a611d8c59cc8e91f47b39fdb2b45ae41a',1,'helib::MatMul_CKKS_Complex::get_fun_type()']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['onegeneratortree_2626',['OneGeneratorTree',['../namespacehelib.html#a22b83b7df1af539c07c804d7888448ce',1,'helib']]]
+  ['nodeidx_3051',['NodeIdx',['../namespacehelib.html#a007ac83d6ec59826a48a73602b739510',1,'helib']]]
 ];

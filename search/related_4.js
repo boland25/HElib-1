@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['general_5frange_2646',['general_range',['../classhelib_1_1general__range_1_1iterator.html#a436dff385222010e82bcb019fccc997f',1,'helib::general_range::iterator']]]
+  ['indexset_3075',['IndexSet',['../classhelib_1_1_index_set_1_1iterator.html#add469a0063023e5ade22035cbaf464fe',1,'helib::IndexSet::iterator']]]
 ];

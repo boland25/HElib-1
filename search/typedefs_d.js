@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['zzx_2632',['zzX',['../namespacehelib.html#a4d6002f36f1a61982fded09adf1331ca',1,'helib']]],
-  ['zzxptr_2633',['ZZXptr',['../namespacehelib.html#a3652f33aab9e225a4c136eb14a50bc53',1,'helib']]]
+  ['value_5ftype_3057',['value_type',['../classhelib_1_1_cloned_ptr.html#a8bb8912861ce6856c9935b1407dd8231',1,'helib::ClonedPtr::value_type()'],['../classhelib_1_1_p_g_f_f_t_1_1aligned__allocator.html#aef7385525e57d83cecb045c9eab57a23',1,'helib::PGFFT::aligned_allocator::value_type()']]],
+  ['vector_3058',['Vector',['../namespacehelib.html#a67a60bb8531261415fb3615bde85ae65',1,'helib']]],
+  ['view_3059',['View',['../namespacehelib.html#ae0cb626d2920d757fb1bcae7b25c23b4',1,'helib']]]
 ];

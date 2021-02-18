@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['permut_2627',['Permut',['../namespacehelib.html#ae0769a209e14d5e1bfd8579072397867',1,'helib']]]
+  ['onegeneratortree_3052',['OneGeneratorTree',['../namespacehelib.html#a22b83b7df1af539c07c804d7888448ce',1,'helib']]]
 ];

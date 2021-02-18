@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fullbinarytree_3c_20t_20_3e_2645',['FullBinaryTree&lt; T &gt;',['../classhelib_1_1_tree_node.html#ac07289ec6bd1eafcb29ab390d948e0d8',1,'helib::TreeNode']]]
+  ['general_5frange_3074',['general_range',['../classhelib_1_1general__range_1_1iterator.html#a436dff385222010e82bcb019fccc997f',1,'helib::general_range::iterator']]]
 ];

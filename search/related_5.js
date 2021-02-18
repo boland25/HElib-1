@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['indexset_2647',['IndexSet',['../classhelib_1_1_index_set_1_1iterator.html#add469a0063023e5ade22035cbaf464fe',1,'helib::IndexSet::iterator']]]
+  ['keyswitch_3076',['KeySwitch',['../classhelib_1_1_sec_key.html#a493c0110d2a91009953606eb8d5c86f5',1,'helib::SecKey']]]
 ];

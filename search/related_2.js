@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['deserialize_2644',['deserialize',['../classhelib_1_1_poly_mod.html#adaad2d1c49df8beadfeb8448058d2f22',1,'helib::PolyMod::deserialize()'],['../classhelib_1_1_ptxt.html#a050ca2638496b139bb9fbdb94200b68f',1,'helib::Ptxt::deserialize()']]]
+  ['fullbinarytree_3c_20t_20_3e_3073',['FullBinaryTree&lt; T &gt;',['../classhelib_1_1_tree_node.html#ac07289ec6bd1eafcb29ab390d948e0d8',1,'helib::TreeNode']]]
 ];
