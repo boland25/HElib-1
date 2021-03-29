@@ -10,7 +10,7 @@ optimizations to make homomorphic evaluation runs faster, focusing mostly on
 effective use of the <a href="http://eprint.iacr.org/2011/133">Smart-Vercauteren</a> ciphertext packing techniques and
 the <a href="http://eprint.iacr.org/2012/099">Gentry-Halevi-Smart</a> optimizations.
 
-Please refer to <a href="https://github.com/homenc/HElib/blob/master/CKKS-security.md">CKKS-security.md</a> for the latest discussion on the security of the CKKS scheme implementation in HElib.
+Please refer to <a href="https://github.com/IBM-HElib/HElib/blob/master/CKKS-security.md">CKKS-security.md</a> for the latest discussion on the security of the CKKS scheme implementation in HElib.
 
 Articles that describe some aspects of HElib include:
 
@@ -31,6 +31,6 @@ HElib is written in C++17 and uses the <a href="http://www.shoup.net/ntl/">NTL</
 
 HElib is distributed under the terms of the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.  
 
-For code downloads, full installation instructions, example programs and tutorials, visit <a href="https://github.com/homenc/HElib">HElib GitHub Pages</a>.
+For code downloads, full installation instructions, example programs and tutorials, visit <a href="https://github.com/IBM-HElib/HElib">HElib GitHub Pages</a>.
 
 **/

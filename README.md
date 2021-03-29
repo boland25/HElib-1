@@ -48,6 +48,6 @@ HElib is distributed under the terms of the [Apache License v2.0][5].
   [7]: http://eprint.iacr.org/2014/106       "algorithms"
   [8]: http://eprint.iacr.org/2014/873       "bootstrapping"
   [9]: http://eprint.iacr.org/2016/421       "CKKS16"
-  [10]: https://github.com/homenc/HElib      "GitHubPages"
+  [10]: https://github.com/IBM-HElib/HElib      "GitHubPages"
   [11]: https://eprint.iacr.org/2020/1481    "HElib Design"
   

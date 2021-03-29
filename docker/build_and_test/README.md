@@ -82,11 +82,11 @@ Additionally, one can select a specific branch to build and test using the `-b
    ```
    For example running this command
    ```
-   docker run --name my_ubuntu_test he-ready-ubuntu:20.04 ./root/build_and_test_helib.sh -r https://github.com/homenc/HElib.git -lt
+   docker run --name my_ubuntu_test he-ready-ubuntu:20.04 ./root/build_and_test_helib.sh -r https://github.com/IBM-HElib/HElib.git -lt
    ```
    will run an Ubuntu 20.04 container called `my_ubuntu_test` with the
    following custom options:
-   - the `-r` flag will instead clone [homenc/HElib](https://github.com/homenc/HElib)
+   - the `-r` flag will instead clone [IBM-HElib/HElib](https://github.com/IBM-HElib/HElib)
    - because the `-b` was not specified the master branch will be tested by default
    - the `-l` flag tells the script to build HElib using the library build
    - the `-t` flag tells the script to only run the HElib Google tests and nothing else
