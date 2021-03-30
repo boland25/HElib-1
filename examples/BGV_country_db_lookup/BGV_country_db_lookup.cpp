@@ -18,7 +18,7 @@
 // code originally written by Jack Crawford for a lunch and learn
 // session at IBM Research (Hursley) in 2019.
 // The original example code ships with HElib and can be found at
-// https://github.com/homenc/HElib/tree/master/examples/BGV_database_lookup
+// https://github.com/IBM-HElib/HElib/tree/master/examples/BGV_database_lookup
 
 #include <iostream>
 

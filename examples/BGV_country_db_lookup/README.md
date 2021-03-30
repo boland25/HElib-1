@@ -204,7 +204,7 @@ This country lookup example is derived from an earlier BGV database demo code
 originally written by Jack Crawford for a lunch and learn session at IBM
 Research (Hursley) in 2019. The original demo code ships with HElib and can be
 found
-[here](https://github.com/homenc/HElib/tree/v1.0.2/examples/BGV_database_lookup).
+[here](https://github.com/IBM-HElib/HElib/tree/v1.0.2/examples/BGV_database_lookup).
 
 ## Appendix - Full List of Countries
 To view the options available for this demo, see the
