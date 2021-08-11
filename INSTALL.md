@@ -189,14 +189,14 @@ step 3.
 
 You can install NTL as follows:
 
-1. Download NTL >=11.4.3 (current version is 11.4.3) from
+1. Download NTL >=11.4.3 (current version is 11.5.1) from
    [http://www.shoup.net/ntl/download.html](http://www.shoup.net/ntl/download.html)
-2. Decompress and cd into the directory, e.g., `ntl-11.4.3/src`
+2. Decompress and cd into the directory, e.g., `ntl-11.5.1/src`
 3. NTL is configured, built and installed in the standard Unix way (but remember
    to specify the following flags to `configure`):
 
 ```bash
-      ./configure NTL_GMP_LIP=on SHARED=on  NTL_THREADS=on NTL_THREAD_BOOST=on
+      ./configure NTL_GMP_LIP=on SHARED=on  NTL_THREADS=on NTL_THREAD_BOOST=on  NTL_RANDOM_AES256CTR=on 
       make
       sudo make install
 ```

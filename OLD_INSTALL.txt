@@ -34,7 +34,7 @@ Once GMP is installed, you can install NTL as follows:
 1. Download NTL from http://www.shoup.net/ntl/download.html
 2. Uncompress and cd into the directory ntl-XXX/src
 3. On the command line:
-      ./configure NTL_GMP_LIP=on
+      ./configure NTL_GMP_LIP=on 
       make
       sudo make install
 4. This should install NTL into /usr/local

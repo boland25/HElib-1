@@ -184,7 +184,7 @@ if (PACKAGE_BUILD)
   # GMP version to be used (and eventually downloaded) if PACKAGE_BUILD
   set(FETCHED_GMP_VERSION "6.2.1")
   # NTL version to be used (and eventually downloaded) if PACKAGE_BUILD
-  set(FETCHED_NTL_VERSION "11.4.3")
+  set(FETCHED_NTL_VERSION "11.5.1")
   # Setting up default compilation output directory
   if (NOT PACKAGE_DIR)
     set(PACKAGE_DIR "helib_pack")

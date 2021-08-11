@@ -1,6 +1,6 @@
-INC_NTL=$HOME/ntl-11.4.3/include
+INC_NTL=$HOME/ntl-11.5.1/include
 INC_GMP=
-LIB_NTL=$HOME/ntl-11.4.3
+LIB_NTL=$HOME/ntl-11.5.1
 LIB_GMP=
 
 # Overwrite COPT, don't use -O2

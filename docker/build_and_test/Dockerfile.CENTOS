@@ -29,9 +29,9 @@ RUN cd && \
 
 # Install NTL and GMP
 RUN yum -y install gmp-devel && \
-    curl -O "https://libntl.org/ntl-11.4.3.tar.gz" && \
-    tar xf ntl-11.4.3.tar.gz && \
-    cd ntl-11.4.3/src && \
+    curl -O "https://libntl.org/ntl-11.5.1.tar.gz" && \
+    tar xf ntl-11.5.1.tar.gz && \
+    cd ntl-11.5.1/src && \
     ./configure PREFIX=/usr/local SHARED=on NTL_GMP_LIP=on NTL_THREADS=on NTL_THREAD_BOOST=on GMP_PREFIX=/usr && \
     make -j4 && \
     make install 
